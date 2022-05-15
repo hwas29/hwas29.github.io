@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Hwas29
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
+    title: Hwas29
     subtitle: "This is subtitle"
     imageUrl: "https://scontent.fsgn16-1.fna.fbcdn.net/v/t39.30808-6/278841094_3179692715579223_5886606429984633985_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=95_nLV8m9OYAX8z1EC1&tn=50qNwE43P96pl7SE&_nc_ht=scontent.fsgn16-1.fna&oh=00_AT9zbG8WzUFW1w99mbBWpfzMuO0TTDXvXJ4P8K8IWI-vxQ&oe=628568FA"
     imageWidth: 120
